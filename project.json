@@ -1,12 +1,13 @@
 {
     "default": {
         "builds": {},
-        "core": "3.4.4",
+        "core": "3.5.0",
         "distribution_folder": "./deploy",
         "format": "1.1.1",
-        "pyodide": "0.19.1",
+        "pyodide": "v0.24.0",
+        "scriptor": "v2.1.0-rc1"
         "sources_folder": "./sources",
-        "vi": "3.0.36"
+        "vi": "admin-v4.0.7"
     },
     "develop": {
         "application_name": "{{app_id}}",
